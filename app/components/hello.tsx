@@ -5,7 +5,7 @@ const Hello = () => {
 
   return (
     <div>
-      <h1>{'Hello'}</h1>
+      <span className="text-3xl">{'This is a component'}</span>
     </div>
   );
 };
