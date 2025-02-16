@@ -16,6 +16,7 @@ export default async function Home({
       views: 55,
       author: {
         _id: 1,
+        name: 'John Doe',
       },
       _id: 1,
       description: '',
